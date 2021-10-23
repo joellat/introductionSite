@@ -1,3 +1,93 @@
-html {
-  max-width: 900px;
+main {
+  background-image: url("../img/First_character\ 2\ Kopie.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+.containerContent {
+  position: relative;
+  display: block;
+  height: 100vh;
+}
+.content {
+  margin-left: 10vw;
+  /* max-width: 900px;
+  width: 80vw;
+  margin: auto; */
+  font-family: "Racing Sans One", cursive;
+  /* display: block; */
+}
+h1 {
+  font-size: 3em;
+}
+/* 
+ul {
+  margin-bottom: 3vh;
+} */
+/* .positionSection {
+  position: relative;
+  height: 180px;
+} */
+/* .background {
+  max-width: 100vw;
+  margin: 0;
+  position: relative;
+} */
+
+.face {
+  max-width: 40vw;
+  position: absolute;
+  right: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Racing Sans One", cursive;
+}
+
+/* .column { */
+/* float: left; */
+/* width: 20vw; */
+/* } */
+
+/* h2 {
+  padding-left: 20px;
+} */
+
+/* li {
+  font-size: 1.2em;
+  display: block;
+} */
+
+/* .footer {
+  background-color: #ffffff;
+  height: 70px;
+}
+.footerText {
+  padding-top: 15px;
+  margin: auto;
+} */
+.list1 {
+  position: absolute;
+  bottom: 20vh;
+  left: 10vw;
+  color: #000000;
+  background-color: white;
+  padding: 15px;
+  max-width: 75vw;
+}
+
+h2 {
+  margin: 0;
+}
+/* .list2 {
+  position: absolute;
+  top: 55vh;
+  left: 40vw;
+  color: #ffffff;
+}
+.list3 {
+  position: absolute;
+  top: 55vh;
+  right: 10vw;
+  color: #ffffff;
+} */
